@@ -192,3 +192,5 @@ A configuració, es defineixen:
 
 ![alt text](image-35.png)
 
+
+
