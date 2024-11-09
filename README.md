@@ -16,6 +16,114 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 
 Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
 
+## 1. Empleats
+En aquest apartat podem categoritzar els empleats, departaments, informes i configuració
+de Empleats, podem veure el personal que tenim i els detalls de cadascun de ells:
+![alt text](image-20.png)
+
+L'àrea de Departament que s'encarrega de tasques particulars, el que permet una major eficiència a la gestió podem crear uno nou en el que podem agregar un nom, gerent, departament pare y el seu color.
+
+![alt text](image-21.png)
+
+Els informes tenim el registre de certificacions obtinguts per els empleats i la visualització de certificats del empleats, classificats per àrees (tècniques, idiomes, etc.).
+
+![alt text](image-22.png)
+
+Per poder crear un nou empleat desde Empleats fem click el botó “nou”, apareixerà un nou formulari de empleat. Completem la informació necessària i qualsevol detall adicional. 
+
+![alt text](image-23.png)
+
+Camps necessaris:
+Nom dels empleats, títol del treball, correu electrònic, telèfon i mòbil del treball. 
+![alt text](image-24.png)
+
+Podem agregar un departament nou al que perteneix, si no hem creat desde l’apartat Departaments i agregar una fotografía del treballador:
+
+![alt text](image-25.png)
+
+A continuació, podem afegir el lloc de treball que ocupa un empleat dins de l'organització.
+
+![alt text](image-26.png)
+
+Podem agregar un Mentor que serà una persona amb experiència i coneixements que guia i dona suport a un altre empleat que tinguem afegit.
+
+![alt text](image-27.png)
+
+A l'apartat de Currículum podrem crear línies de currículum. Després d'afegir una entrada, en el botó 'afegir' proporcionarem la informació de l'empleat per a cada entrada.
+![alt text](image-28.png)
+
+Per afegir una habilitat apareixerà el formulari 'Trieu una habilitat de la llista'. Introduïu la informació de l'empleat per a cada habilitat:
+
+![alt text](image-29.png)
+
+A Informació de treball podem col·locar la ubicació, adreça, si tenim o no aprovadors que serveixen per a definir quines sol·licituds de despesa necessiten aprovació abans de ser processades i les seves despeses
+![alt text](image-30.png)
+
+Col·locarem també en l'Horari les hores laborables, la zona horària i la Planificació que tindrà rols i rols per defecte. Podem crear un nou des de 'Crear' en rols:
+![alt text](image-31.png)
+
+A Informació privada podem col·locar les dades personals de cada empleat, com el contacte privat, la nacionalitat, el contacte d'emergència, l'educació, la situació familiar i els permisos de treball si és estranger.
+![alt text](image-32.png)
+
+Dins d'Ajustos podrem col·locar el tipus d'empleat, l'usuari relacionat que podrem crear a 'crear usuari' i el cost per hora.
+![alt text](image-33.png)
+
+Assistències/Punt de venda si l'empleat té o necessita un codi NIP o un ID de credencial, pot introduir-los aquí. Feu clic a 'Generar' al costat de l'ID de credencial per crear-ne un. El codi NIP s'utilitza per iniciar i tancar sessió al quiosc de l'aplicació Assistència i en un sistema PdV si en tenim un.
+![alt text](image-34.png)
+
+## Reclutament
+Podem afegir un nou lloc de treball.
+![alt text](image-35.png)
+
+Un cop afegit el lloc de treball, podem fer la configuració de les postulacions per al lloc:
+
+![alt text](image-36.png)
+
+Podem afegir un candidat, qualificació inicial, primera entrevista, segona entrevista i la proposta de treball.
+
+![alt text](image-37.png)
+
+## 2. Esdeveniments
+Per crear un esdeveniment, fem clic a "Nou" des del tauler d'Esdeveniments. Odoo ens dirigirà a la pàgina d'un formulari en blanc de plantilla d'esdeveniment on omplirem les dades corresponents.
+
+![alt text](image-38.png)
+
+**Límit de registres**
+
+El límit de registres, quan està activat, limita els registres d'assistents a una quantitat determinada.
+![alt text](image-39.png)
+
+**Entrades**
+
+A la pestanya Entrades, podrem afegir línies per indicar cada tipus d'entrada que oferirem. També podrem definir el preu, les dates d'inici i fi, i el nombre màxim d'entrades a la venda.
+
+Si no s'habilita la venda d'entrades, es mostrarà un botó de registre de manera predeterminada a la pàgina de l'esdeveniment.
+![alt text](image-40.png)
+
+**Comunicació**
+
+A la pestanya Comunicació, podem configurar els correus electrònics i els missatges. Fem clic a "Afegir una línia" i, després, triem (o creem) una plantilla de comunicació amb el menú desplegable de la columna Plantilla.
+
+Ara cal definir l'Interval i la Unitat de temps per establir cada quant s'ha d'enviar la comunicació. També existeix l'opció d'enviar aquestes comunicacions de manera immediata mitjançant algun activador específic.
+![alt text](image-41.png)
+
+**Qüestionaris**
+
+Enviar qüestionaris durant els registres és una bona manera d'avaluar les necessitats i els interessos dels assistents abans de l'esdeveniment. També serveix com a eina d'anàlisi informativa per informar abans o després dels esdeveniments.
+
+Per crear un qüestionari des de l'aplicació Esdeveniments i a la pestanya Preguntes, podem afegir una línia per definir si és obligatòria, el tipus de pregunta i l'ordre.
+![alt text](image-43.png) 
+![alt text](image-44.png)
+
+**Notes**
+
+Si anem a la pestanya Notes, allà trobarem les opcions per afegir notes o instruccions per a les entrades. També podrem deixar notes internes (per exemple, llistes de coses per fer, informació de contacte, etc.).
+![alt text](image-45.png)
+
+**Estat de l'esdeveniment**
+
+Un cop creat l'esdeveniment, podem establir l'estat com a Nou, Reservat, Anunciat, Cancel·lat o Finalitzat.
+![alt text](image-46.png)
 
 ## 1.Vendes
 
