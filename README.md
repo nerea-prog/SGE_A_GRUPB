@@ -1,3 +1,26 @@
+# Restaurant THE BEAR
+
+1. VENTES
+
+
+Les vendes son on gestionem les demandes onlines.
+
+En vendes tenim l’apartat de comandes de venda i pressupostos, on posarem el client, direcció de factura, direcció de entrega y la data de venciment, si tenim alguna llista de preus la podem posar, també les condicions de pagament en les que definim per exemple si volem un pagament immediat, o de un límit de dies. Seguidament posem els productes per fer el pressupost
+
+![Descripción de la imagen](Imagenes/Ventes1.png)
+
+Agregarem un mètode d’enviament on definirem el mètode i el pes de la ordre
+
+![Descripción de la imagen](Imagenes/Ventes2.png)
+
+Una vegada fet el pressupost ho podem confirmar y també enviar-li per correu electrònic
+
+![alt text](image-2.png)
+
+Ara seguidament d’això, crearem una factura d’aquest pressupost. Podem escollir si volem una factura regular, una anticipada per percentatge o bé una anticipada per import fix. 
+
+![alt text](image-3.png)
+
 ## Punt de Venda
 
 En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica dels diferents punts de venda, des de la taula de productes i preus fins a la gestió de comandes de les taules i el cobrament posterior.
@@ -82,14 +105,5 @@ El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les emp
 ![Pantalla empleats](image-15.png)
 
 - **Anàlisi i informes:** El mòdul de Planificació d’Odoo inclou funcionalitats d’informes que permeten analitzar l'ús de recursos, la càrrega de treball i l’acompliment del personal en diferents projectes. Aquesta anàlisi ajuda a prendre decisions basades en dades i millora la planificació de futurs projectes.
-
-![Pantalla informes](image-14.png)
-
-### Configuració del mòdul de planificació
-
-A l'últim apartat ens apareix les diferents opcions per poder personalitzar el mòdul de planificació. Des de plantilles per fer els torns dels treballadors fins a les funcions que portaràn a terme, materiasl i llista d'empleats.
-
-![Configuració](image-17.png)
-![Plantilla de torns](image-18.png)
 
 
