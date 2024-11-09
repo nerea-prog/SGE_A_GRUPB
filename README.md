@@ -29,7 +29,7 @@ En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica
 
 El taulell principal ofereix el control d’obertura de la caixa registradora, incloent dades sobre el total de diners en data de tancament.
 
-![Pantalla Inicial](image.png)
+![Pantalla incial](image.png)
 
 ### Comandes
 
@@ -50,7 +50,9 @@ pot modificar també els preus dels productes i afegir-ne un de nous.
 - **Gestió de Productes:** Permet crear categories, definir preus, assignar codis de barres i establir variants de producte (com mida o color).
 - **Actualització d’inventari en temps real:** Cada venda es reflecteix directament en el sistema d’inventari, facilitant el control d’estoc.
 
-![Pantalles productes i preus](image-3.png)
+![Pantalla de productes](image-3.png)
+![Pantalla de preus i modificacions](image-4.png)
+
 
 ### Informes de Venda
 
@@ -58,25 +60,26 @@ Aquest mòdul permet visualitzar informes de venda per conèixer quins productes
 
 - **Tipus d’informes:** El sistema genera informes diaris, setmanals o mensuals amb dades detallades sobre productes venuts, ingressos i rendiment per punt de venda o caixer.
 
-![Gràfiques de vendes](image-4.png)
+![Gràfiques de vendes](image-5.png)
+![Detall de vendes](image-6.png)
 
 ### Configuració del Punt de Venda (POS) a Odoo
 
 La configuració del sistema de vendes d’Odoo és fàcil d’usar i ideal per a comerços, hostaleria i negocis minoristes. Permet diverses opcions per adaptar-se a les necessitats específiques de cada negoci:
 
-![Configuració](image-5.png)
+![Pantalla configuració](image-7.png)
 
 - **Pagaments:** Configura diferents formes de pagament (efectiu, targetes de crèdit, moneders electrònics, etc.), així com les condicions de crèdit.
 
-![Pagaments](image-6.png)
+![Pagaments](image-8.png)
 
 - **Sessions de venda:** Cada punt de venda té una sessió que es tanca al final del dia per fer el balanç. Odoo gestiona de manera automàtica la conciliació.
 
-![Sessions de venda](image-7.png)
+![Sessions de venda](image-9.png)
 
 - **Disseny del restaurant i les taules:** Personalització del disseny del restaurant per facilitar la gestió de les comandes.
 
-![Disseny de taules i restaurant](image-8.png)
+![Disseny de pis i de les taules](image-10.png)
 
 ## Planificació
 
@@ -86,13 +89,21 @@ El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les emp
 
 - **Planificació i assignació de recursos:** Permet assignar recursos (com persones, equips o materials) a projectes o tasques específiques, facilitant la visualització de la càrrega de treball i assegurant que cada membre de l’equip sàpiga què ha de fer i quan.
 
-- **Calendari i Vista de Gantt:** Inclou una vista de calendari i una vista de Gantt, que són molt útils per visualitzar fàcilment el calendari de tasques i la progressió de projectes en el temps. La vista de Gantt és ideal per a projectes més complexos, ja que mostra la durada, les dependències i els terminis.
+![Pantalla planificació recursos](image-12.png)
+
+- **Calendari:** Inclou una vista de calendari, que són molt útils per visualitzar fàcilment el calendari de tasques i la progressió de projectes en el temps.
+
+![Pantalla inicial](image-11.png)
+![Pantalla calendari](image-16.png)
 
 - **Gestió de permisos i disponibilitat:** La planificació permet que els usuaris indiquin la seva disponibilitat, els permisos i altres horaris específics. Això ajuda els administradors a planificar les tasques en funció de les disponibilitats de l’equip, evitant conflictes i sobrecàrregues de treball.
 
+![Pantalla configuració](image-13.png)
+
 - **Sincronització amb altres mòduls (RRHH):** Permet integrar el mòdul de planificació amb el de Recursos Humans per gestionar millor les assignacions de personal.
 
-- **Automatització i notificacions:** Configuració de notificacions automàtiques per informar els equips de noves tasques, canvis o recordatoris, així com alertes per a terminis. Això assegura una comunicació fluida i que els membres de l’equip estiguin sempre informats.
+![Pantalla empleats](image-15.png)
 
 - **Anàlisi i informes:** El mòdul de Planificació d’Odoo inclou funcionalitats d’informes que permeten analitzar l'ús de recursos, la càrrega de treball i l’acompliment del personal en diferents projectes. Aquesta anàlisi ajuda a prendre decisions basades en dades i millora la planificació de futurs projectes.
+
 
