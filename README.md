@@ -2,7 +2,7 @@
 
 Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empreses.
 
-## Punts Claus per a la Venda d’un ERP a un Client Potencial
+### Punts Claus per a la Venda d’un ERP a un Client Potencial
 
 Considerem que els punts claus a l'hora de vendre un ERP són els següents: 
 - Aconseguir l'optimització dels processos.
