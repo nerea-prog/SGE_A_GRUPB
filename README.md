@@ -106,4 +106,5 @@ El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les emp
 
 - **Anàlisi i informes:** El mòdul de Planificació d’Odoo inclou funcionalitats d’informes que permeten analitzar l'ús de recursos, la càrrega de treball i l’acompliment del personal en diferents projectes. Aquesta anàlisi ajuda a prendre decisions basades en dades i millora la planificació de futurs projectes.
 
+![Pantalla Anàlisi](image-19.png)
 
