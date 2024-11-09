@@ -11,11 +11,6 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 - Possibilitat de personalització pel nostre client i escalabilitat.
 - Adaptació a la normativa.
 
-
-#  EL NOSTRE CLIENT: RESTAURANT THE BEAR
-
-Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
-
 ## Llicències que ofereix Odoo
 
 | Llicència | Característiques | Empreses | Preu |
@@ -24,7 +19,11 @@ Els mòduls següents són els que hem ofert al nostre client amb una explicaci�
 | Estàndard  | Funcions més completes, suport i actualitzacions regulars, aplicacions i mòduls, com ara comptabilitat, gestió d'inventaris, CRM, projectes, màrqueting, vendes, etc.  | Empreses mitjanes que requereixen un ERP robust.  |11,90 €/usuari/mes |
 | Personalitzada  | Personalització molt detallada, consultoria i suport especialitzat, desenvolupament de mòduls específics.  | Empreses grans o amb necessitats específiques.  | 17,90 €/usuari/mes
 
-  
+
+#  EL NOSTRE CLIENT: RESTAURANT THE BEAR
+
+Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
+
 ## 1. Empleats
 En aquest apartat podem categoritzar els empleats, departaments, informes i configuració
 de Empleats, podem veure el personal que tenim i els detalls de cadascun de ells:
