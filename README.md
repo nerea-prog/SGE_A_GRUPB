@@ -19,3 +19,5 @@ Una vegada fet el pressupost ho podem confirmar y també enviar-li per correu el
 Ara seguidament d’això, crearem una factura d’aquest pressupost. Podem escollir si volem una factura regular, una anticipada per percentatge o bé una anticipada per import fix. 
 
 ![alt text](image-3.png)
+
+Hola
