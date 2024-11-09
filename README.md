@@ -1,4 +1,4 @@
-# Introducció
+# INTRODUCCIÓ
 
 Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empreses.
 
@@ -7,14 +7,17 @@ Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empre
 Considerem que els punts claus a l'hora de vendre un ERP són els següents: 
 - Aconseguir l'optimització dels processos.
 - Millora de la visibilitat i presa de decisions de l'empresa del nostre client.
-- Millora de l'experiència del client amb el client final (consumidor).
-- Possibilitat de personalització i escalabilitat.
+- Millora de l'experiència del client per tal de poder anticipar-nos a les seves necessitats.
+- Possibilitat de personalització pel nostre client i escalabilitat.
 - Adaptació a la normativa.
 
 
-#  El nostre client: Restaurant The Bear
+#  EL NOSTRE CLIENT: RESTAURANT THE BEAR
 
-1. VENDES
+Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
+
+
+## 1.Vendes
 
 
 Les vendes son on gestionem les demandes onlines.
@@ -33,7 +36,7 @@ Una vegada fet el pressupost ho podem confirmar y també enviar-li per correu el
 Ara seguidament d’això, crearem una factura d’aquest pressupost. Podem escollir si volem una factura regular, una anticipada per percentatge o bé una anticipada per import fix. 
 
 
-## Punt de Venda
+## 7. Punt de Venda
 
 En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica dels diferents punts de venda, des de la taula de productes i preus fins a la gestió de comandes de les taules i el cobrament posterior.
 
@@ -93,7 +96,7 @@ La configuració del sistema de vendes d’Odoo és fàcil d’usar i ideal per 
 
 ![Disseny de pis i de les taules](image-10.png)
 
-## Planificació
+## 8. Planificació
 
 El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les empreses a gestionar i planificar les tasques i els recursos de manera eficient. És especialment útil per organitzar l'assignació de treball en equips, optimitzant la disponibilitat dels recursos i facilitant una planificació precisa de projectes, activitats i esdeveniments.
 
