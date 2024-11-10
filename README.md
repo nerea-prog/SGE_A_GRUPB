@@ -209,7 +209,7 @@ En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica
 
 El taulell principal ofereix el control d’obertura de la caixa registradora, incloent dades sobre el total de diners en data de tancament.
 
-![Pantalla Inicial](image-49.png)
+![Pantalla incial](image.png)
 
 ### Comandes
 
