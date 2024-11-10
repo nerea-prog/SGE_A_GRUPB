@@ -15,8 +15,6 @@ Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empre
 - Nerea: Vendes i Calendari (B)
 - Alba: Compres i Costos (C)
 - Lorena: Punt de venda i Planificació (D)
-- Nerea: Vendes i calendari (B)
-- Alba: Compres i Costos (C)
 
 **Comparació sistemes ERP**
 
