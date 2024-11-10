@@ -2,9 +2,13 @@
 
 Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empreses.
 
-## Introducció integrants del grup
+### Introducció integrants del grup
 
 1. Sóc Nerea, tinc 18 anys.  m'agrada molt l'informàtica especialment la programació. En aquest treball m'interessa explorar més sobre els sistemes ERP. Espero poder aprendre moltes coses.
+
+### Repartició de feines
+
+- Nerea: Ventes i calendari (B)
 
 **Comparació sistemes ERP**
 
