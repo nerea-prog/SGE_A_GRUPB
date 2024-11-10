@@ -209,6 +209,8 @@ A configuració, es defineixen:
 - Estat de recursos (pausats i els seus motius)
 - Invitacions per a propostes de cites
 
+![alt text](image-82.png)
+=======
 ## Punt de Venda
 
 En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica dels diferents punts de venda, des de la taula de productes i preus fins a la gestió de comandes de les taules i el cobrament posterior.
