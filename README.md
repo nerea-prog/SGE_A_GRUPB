@@ -16,26 +16,6 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 
 Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
 
-
-## 1.Vendes
-
-
-Les vendes son on gestionem les demandes onlines.
-
-En vendes tenim l’apartat de comandes de venda i pressupostos, on posarem el client, direcció de factura, direcció de entrega y la data de venciment, si tenim alguna llista de preus la podem posar, també les condicions de pagament en les que definim per exemple si volem un pagament immediat, o de un límit de dies. Seguidament posem els productes per fer el pressupost
-
-![Descripción de la imagen](Imagenes/Ventes1.png)
-
-Agregarem un mètode d’enviament on definirem el mètode i el pes de la ordre
-
-![Descripción de la imagen](Imagenes/Ventes2.png)
-
-Una vegada fet el pressupost ho podem confirmar y també enviar-li per correu electrònic
-
-
-Ara seguidament d’això, crearem una factura d’aquest pressupost. Podem escollir si volem una factura regular, una anticipada per percentatge o bé una anticipada per import fix. 
-
-
 ## 7. Punt de Venda
 
 En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica dels diferents punts de venda, des de la taula de productes i preus fins a la gestió de comandes de les taules i el cobrament posterior.
