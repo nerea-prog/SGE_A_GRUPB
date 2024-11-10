@@ -2,6 +2,36 @@
 
 Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empreses.
 
+### Introducció integrants del grup
+
+1. Sóc Nerea, tinc 18 anys.  m'agrada molt l'informàtica especialment la programació. En aquest treball m'interessa explorar més sobre els sistemes ERP. Espero poder aprendre moltes coses.
+2. Em dic Alba, tinc 22 anys i encara que mai havia estudiat res relacionat amb la informàtica, m'està agradant molt.
+3. Em dic Brithany, tinc 18 anys i tinc moltes ganes d'aprendre sobre ERP, CRM, BS, etc. Em motiva molt poder adquirir nous coneixements i millorar en aquesta àrea.
+4. Em dic Lorena, tinc 40 anys i estic interessada en canviar el meu camí professional cap a la IT. He fet algún curs de programació per agafar una bona base.
+
+
+### Repartició de feines
+
+- Brithany: Empleats i Esdeveniments (A)
+- Nerea: Vendes i Calendari (B)
+- Alba: Compres i Costos (C)
+- Lorena: Punt de venda i Planificació (D)
+
+**Comparació sistemes ERP**
+
+| **Característica**                                        | **Abanq**                                                                                                                                                           | **Openbravo**                                                                                                                                                                                                                                                                                                                                                               |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sistema multiusuari                                       | Sí                                                                                                                                                                  | Sí                                                                                                                                                                                                                                                                                                                                                                          |
+| Sistema de permisos                                       | Sí, amb diversos nivells per a cada característica                                                                                                                  | Sí, adaptable segons les funcions necessàries per als minoristes                                                                                                                                                                                                                                                                                                           |
+| Interfície personalitzable                                | Sí, mitjançant temes                                                                                                                                                 | No especificat                                                                                                                                                                                                                                                                                                                                                             |
+| Modularitat                                               | Sí, permet modular el codi                                                                                                                                           | Sí, sistema modular que permet seleccionar només els components necessaris, com la gestió d'inventaris, CRM i fidelització de clients                                                                                                                                                                                                                                      |
+| Base de dades recomanada                                  | Principalment **PostgreSQL** (també compatible amb **MySQL** i **SQLite**, però es recomana PostgreSQL)                                                              | **PostgreSQL** o altres bases de dades segons necessitats                                                                                                                                                                                                                                                                                                                  |
+| Desenvolupament                                           | Desenvolupat en **C++** i **toolkit Qt**                                                                                                                             | Plataforma de comerç unificat per a minoristes                                                                                                                                                                                                                                                                                                                             |
+| Funcionalitats destacades                                 | - Sistema de permisos multiusuari<br>- Personalització de la interfície<br>- Modularitat del codi                                                                    | - Visió en temps real d'inventari i comportament de clients<br>- Integració amb canals físics i digitals<br>- Funcions d’omnicanalitat com **Click & Collect** i **Ship-from-Store**                                                                                                                                               |
+| Funcions d’omnicanalitat                                  | No especificades                                                                                                                                                     | Sí:<br>**Click & Collect**: les botigues físiques poden servir com a punts de recollida de comandes en línia<br>**Ship-from-Store**: enviament de productes des de la botiga més propera, reduint temps i costos logístics                                                                                                         |
+| Adaptabilitat segons necessitats de l'empresa             | No especificat                                                                                                                                                       | Sí, els minoristes poden adaptar la plataforma segons les seves necessitats actuals i futures, afegint funcionalitats segons l'evolució de l'empresa                                                                                                                                                                               |
+
+
 ### Punts Claus per a la Venda d’un ERP a un Client Potencial
 
 Considerem que els punts claus a l'hora de vendre un ERP són els següents: 
@@ -13,6 +43,7 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 
 ### Llicències que ofereix Odoo
 
+
 | Llicència | Característiques | Empreses | Preu |
 |-----------|-----------|-----------|-----------|
 | Gratuïta  | Tot i ser gratuïta, aquesta llicència només ofereix funcionalitats bàsiques de l'ERP. No inclou moltes de les eines avançades ni actualitzacions.  | Empreses petites i proves.  | gratuït  |
@@ -23,6 +54,116 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 #  EL NOSTRE CLIENT: RESTAURANT THE BEAR
 
 Els mòduls següents són els que hem oferit al nostre client amb una explicació detallada del funcionament de cadascú.
+
+## 1. Empleats
+En aquest apartat podem categoritzar els empleats, departaments, informes i configuració
+de Empleats, podem veure el personal que tenim i els detalls de cadascun de ells:
+![alt text](image-20.png)
+
+L'àrea de Departament que s'encarrega de tasques particulars, el que permet una major eficiència a la gestió podem crear uno nou en el que podem agregar un nom, gerent, departament pare y el seu color.
+
+![alt text](image-21.png)
+
+Els informes tenim el registre de certificacions obtinguts per els empleats i la visualització de certificats del empleats, classificats per àrees (tècniques, idiomes, etc.).
+
+![alt text](image-22.png)
+
+Per poder crear un nou empleat desde Empleats fem click el botó “nou”, apareixerà un nou formulari de empleat. Completem la informació necessària i qualsevol detall adicional. 
+
+![alt text](image-23.png)
+
+Camps necessaris:
+Nom dels empleats, títol del treball, correu electrònic, telèfon i mòbil del treball. 
+![alt text](image-24.png)
+
+Podem agregar un departament nou al que perteneix, si no hem creat desde l’apartat Departaments i agregar una fotografía del treballador:
+
+![alt text](image-25.png)
+
+A continuació, podem afegir el lloc de treball que ocupa un empleat dins de l'organització.
+
+![alt text](image-26.png)
+
+Podem agregar un Mentor que serà una persona amb experiència i coneixements que guia i dona suport a un altre empleat que tinguem afegit.
+
+![alt text](image-27.png)
+
+A l'apartat de Currículum podrem crear línies de currículum. Després d'afegir una entrada, en el botó 'afegir' proporcionarem la informació de l'empleat per a cada entrada.
+![alt text](image-28.png)
+
+Per afegir una habilitat apareixerà el formulari 'Trieu una habilitat de la llista'. Introduïu la informació de l'empleat per a cada habilitat:
+
+![alt text](image-29.png)
+
+A Informació de treball podem col·locar la ubicació, adreça, si tenim o no aprovadors que serveixen per a definir quines sol·licituds de despesa necessiten aprovació abans de ser processades i les seves despeses
+![alt text](image-30.png)
+
+Col·locarem també en l'Horari les hores laborables, la zona horària i la Planificació que tindrà rols i rols per defecte. Podem crear un nou des de 'Crear' en rols:
+![alt text](image-31.png)
+
+A Informació privada podem col·locar les dades personals de cada empleat, com el contacte privat, la nacionalitat, el contacte d'emergència, l'educació, la situació familiar i els permisos de treball si és estranger.
+![alt text](image-32.png)
+
+Dins d'Ajustos podrem col·locar el tipus d'empleat, l'usuari relacionat que podrem crear a 'crear usuari' i el cost per hora.
+![alt text](image-33.png)
+
+Assistències/Punt de venda si l'empleat té o necessita un codi NIP o un ID de credencial, pot introduir-los aquí. Feu clic a 'Generar' al costat de l'ID de credencial per crear-ne un. El codi NIP s'utilitza per iniciar i tancar sessió al quiosc de l'aplicació Assistència i en un sistema PdV si en tenim un.
+![alt text](image-34.png)
+
+## Reclutament
+Podem afegir un nou lloc de treball.
+![alt text](image-35.png)
+
+Un cop afegit el lloc de treball, podem fer la configuració de les postulacions per al lloc:
+
+![alt text](image-36.png)
+
+Podem afegir un candidat, qualificació inicial, primera entrevista, segona entrevista i la proposta de treball.
+
+![alt text](image-37.png)
+
+## 2. Esdeveniments
+Per crear un esdeveniment, fem clic a "Nou" des del tauler d'Esdeveniments. Odoo ens dirigirà a la pàgina d'un formulari en blanc de plantilla d'esdeveniment on omplirem les dades corresponents.
+
+![alt text](image-38.png)
+
+**Límit de registres**
+
+El límit de registres, quan està activat, limita els registres d'assistents a una quantitat determinada.
+![alt text](image-39.png)
+
+**Entrades**
+
+A la pestanya Entrades, podrem afegir línies per indicar cada tipus d'entrada que oferirem. També podrem definir el preu, les dates d'inici i fi, i el nombre màxim d'entrades a la venda.
+
+Si no s'habilita la venda d'entrades, es mostrarà un botó de registre de manera predeterminada a la pàgina de l'esdeveniment.
+![alt text](image-40.png)
+
+**Comunicació**
+
+A la pestanya Comunicació, podem configurar els correus electrònics i els missatges. Fem clic a "Afegir una línia" i, després, triem (o creem) una plantilla de comunicació amb el menú desplegable de la columna Plantilla.
+
+Ara cal definir l'Interval i la Unitat de temps per establir cada quant s'ha d'enviar la comunicació. També existeix l'opció d'enviar aquestes comunicacions de manera immediata mitjançant algun activador específic.
+![alt text](image-41.png)
+
+**Qüestionaris**
+
+Enviar qüestionaris durant els registres és una bona manera d'avaluar les necessitats i els interessos dels assistents abans de l'esdeveniment. També serveix com a eina d'anàlisi informativa per informar abans o després dels esdeveniments.
+
+Per crear un qüestionari des de l'aplicació Esdeveniments i a la pestanya Preguntes, podem afegir una línia per definir si és obligatòria, el tipus de pregunta i l'ordre.
+![alt text](image-43.png) 
+![alt text](image-44.png)
+
+**Notes**
+
+Si anem a la pestanya Notes, allà trobarem les opcions per afegir notes o instruccions per a les entrades. També podrem deixar notes internes (per exemple, llistes de coses per fer, informació de contacte, etc.).
+![alt text](image-45.png)
+
+**Estat de l'esdeveniment**
+
+Un cop creat l'esdeveniment, podem establir l'estat com a Nou, Reservat, Anunciat, Cancel·lat o Finalitzat.
+![alt text](image-46.png)
+
 # Vendes
 
 A l’apartat de **Vendes** gestionem les demandes en línia.
@@ -209,6 +350,91 @@ A configuració, es defineixen:
 - Estat de recursos (pausats i els seus motius)
 - Invitacions per a propostes de cites
 
+![alt text](image-82.png)
+
+
+
+## COMPRES
+
+El mòdul de compres és un dels mòduls que ofereix Odoo més importants per a gestionar l’adquisició de productes i serveis dins d’una empresa. Amb aquest mòdul, pots gestionar tot el procés de compres, des de la sol·licitud de compra fins a la recepció de productes i la facturació posterior.
+
+### Sol·licitud de compra al proveïdor
+
+Abans de fer una compra, has de demanar un pressupost al possible proveïdor al qual vols comprar-li. Això té com a avantatge poder saber el cost de determinat nombre de productes sense que hi hagi cap compromís amb l’empresa de fer finalment l’ordre.
+
+Per fer això, es comença prement el botó superior esquerra que diu “Nou”.
+
+![alt text](image-84.png)
+
+
+La primera vegada caldrà registrar informació bàsica del proveïdor, com el nom, les dades de contacte, la direcció de facturació, etc. Si l’empresa és coneguda, és possible que ja es trobi registrada a la base de dades d’Odoo.
+
+A més, Odoo et permet personalitzar certs aspectes a la configuració de compres:
+- **Condicions de pagament**: Estableix com i quan pagaràs als proveïdors.
+- **Magatzems**: Defineix els magatzems a què rebràs els productes comprats.
+
+![alt text](image-85.png)
+
+Un cop registrat el proveïdor, es pot començar a afegir els productes que interessa comprar.
+
+![alt text](image-86.png)
+
+![alt text](image-87.png)
+
+Finalment, per enviar la sol·licitud s’ha de prémer el botó que diu “Enviar per correu electrònic” i posteriorment un altre que diu “Enviar”.
+
+Posteriorment a això, el proveïdor contactarà de tornada i podrà rebutjar o acceptar la sol·licitud. En cas que l’accepti, es pot fer una última revisió dels productes, quantitats i preus. Llavors apareixerà una opció per convertir la “Sol·licitud de compra” a un “ordre de compra”.
+
+### Ordres de compra
+
+Quan la sol·licitud es converteix en una ordre de compra, implica que la sol·licitud passi a ser una comanda formal i que hi hagi un compromís amb el proveïdor.
+
+![alt text](image-88.png)
+
+### Recepció de productes
+
+Un cop el proveïdor enviï els productes, s’hauran de rebre al magatzem. Caldrà seguir les següents passes:
+
+1. Anar a Compra > Ordres de compra > seleccionar l’ordre de compra en concret > Rebre productes
+
+![alt text](image-89.png)
+
+2. Odoo et demana que registres la quantitat rebuda de cada producte. Si reps menys quantitat del que es demana, es pot ajustar la quantitat rebuda. Per finalitzar, prémer el botó “validar”.
+
+![alt text](image-90.png)
+
+3. Després de rebre els productes, Odoo actualitza automàticament l'inventari dels vostres magatzems amb les noves quantitats.
+
+
+### Facturació al proveïdor
+
+Un cop s’ha confirmat que els productes han arribat bé, cal fer la facturació. Ara a l’ordre de compra aniran apareixent una sèrie de botons nous. L'ordre és el següent:
+
+Crear factura > Confirmar > Confirmar
+
+![alt text](image-91.png)
+
+Odoo generarà la factura basant-se en la recepció de productes.
+
+Cal revisar els detalls de la factura (productes, quantitats, preus, etc.). És important afegir la data de la factura, ja que si no, no es podrà confirmar.
+
+![alt text](image-92.png)
+
+Si tot és correcte, es pot validar la factura. Això marcarà la factura com a pagada o pendent segons la condició de pagament definida.
+
+![alt text](image-94.png)
+
+
+### Informe i anàlisis
+
+Odoo també ofereix diverses eines per analitzar i fer reports de les compres realitzades, cosa que és útil per a la presa de decisions: 
+
+- **Informe de Compres:** Pots generar informes sobre les compres realitzades, com ara el total gastat amb un proveïdor, productes més comprats, entre d'altres. 
+- **Analítica:** També permet fer anàlisis detallades sobre les compres per categoria, proveïdor, o fins i tot comparar compres de diferents períodes.
+
+![alt text](image-111.png)
+
+
 ## Punt de Venda
 
 En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica dels diferents punts de venda, des de la taula de productes i preus fins a la gestió de comandes de les taules i el cobrament posterior.
@@ -269,6 +495,47 @@ La configuració del sistema de vendes d’Odoo és fàcil d’usar i ideal per 
 
 ![Disseny de pis i de les taules](image-10.png)
 
+
+
+
+## Costos
+
+Els costos a Odoo es gestionen des del mòdul de "Despeses" (Gastos). Aquest mòdul és una eina molt útil per gestionar totes les despeses operatives d'una empresa. Permet als usuaris registrar, controlar, aprovar i reemborsar les despeses relacionades amb la feina, com els desplaçaments, les compres de materials o qualsevol altra despesa relacionada amb l'activitat empresarial.
+
+### Taulell Principal
+
+El taulell principal ofereix una vista general de totes les factures que es van introduint. Per començar, caldrà prémer el botó superior esquerre que diu “Nou”.
+
+![alt text](image-96.png)
+
+Un cop entrem, ens sortirà la següent pantalla. Cal anotar els diners que s’ha gastat, qui ha fet la despesa (si és una despesa d’empresa o d’un empleat) i clicant el botó que diu “Adjuntar rebut” et permet adjuntar una fotografia del rebut en concret.
+
+![alt text](image-97.png)
+
+![alt text](image-98.png)
+
+
+A continuació, polsant el botó que diu “Crear report”, et demanarà que introdueixis el nom del gerent. Un cop introduït les dades, ja es pot enviar.
+
+![alt text](image-99.png)
+
+L’ordre seria el següent: **Crear report > Enviar al gerent > Aprovar > registrar asientos contables > Pagar**
+
+
+![alt text](image-101.png)
+
+
+Després s’introdueixen les dades necessàries, com per exemple el mètode de devolució (si en efectiu o per ingrés bancari) i es revisa que totes les altres dades siguin correctes abans de fer el pagament.
+
+![alt text](image-102.png)
+
+
+I finalment tenim el rebut pagat.
+
+![alt text](image-103.png)
+
+
+
 ## Planificació
 
 El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les empreses a gestionar i planificar les tasques i els recursos de manera eficient. És especialment útil per organitzar l'assignació de treball en equips, optimitzant la disponibilitat dels recursos i facilitant una planificació precisa de projectes, activitats i esdeveniments.
@@ -295,3 +562,4 @@ El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les emp
 - **Anàlisi i informes:** El mòdul de Planificació d’Odoo inclou funcionalitats d’informes que permeten analitzar l'ús de recursos, la càrrega de treball i l’acompliment del personal en diferents projectes. Aquesta anàlisi ajuda a prendre decisions basades en dades i millora la planificació de futurs projectes.
 
 ![Pantalla Anàlisi](image-19.png)
+
