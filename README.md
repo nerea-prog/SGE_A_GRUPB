@@ -9,13 +9,14 @@ Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empre
 3. Em dic Brithany, tinc 18 anys i tinc moltes ganes d'aprendre sobre ERP, CRM, BS, etc. Em motiva molt poder adquirir nous coneixements i millorar en aquesta àrea.
 4. Em dic Lorena, tinc 40 anys i estic interessada en canviar el meu camí professional cap a la IT. He fet algún curs de programació per agafar una bona base.
 
-
 ### Repartició de feines
 
 - Brithany: Empleats i Esdeveniments (A)
 - Nerea: Vendes i Calendari (B)
 - Alba: Compres i Costos (C)
 - Lorena: Punt de venda i Planificació (D)
+- Nerea: Vendes i calendari (B)
+- Alba: Compres i Costos (C)
 
 **Comparació sistemes ERP**
 
