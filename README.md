@@ -16,7 +16,6 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 #  EL NOSTRE CLIENT: RESTAURANT THE BEAR
 
 Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
-
 # Vendes
 
 A l’apartat de **Vendes** gestionem les demandes en línia.
@@ -43,6 +42,14 @@ Definim un **mètode d’enviament** especificant el mètode i el pes de l’ord
 ### Confirmació del Pressupost
 
 Un cop creat el pressupost, el podem confirmar i enviar al client per correu electrònic.
+
+## Punt de Venda
+
+En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica dels diferents punts de venda, des de la taula de productes i preus fins a la gestió de comandes de les taules i el cobrament posterior.
+
+### Taulell Principal
+
+El taulell principal ofereix el control d’obertura de la caixa registradora, incloent dades sobre el total de diners en data de tancament.
 
 ![alt text](image-49.png)
 
@@ -142,6 +149,15 @@ A **configuració**, es poden afegir mètodes de pagament i fer altres ajustamen
 
 La secció de **Calendari** permet programar cites, com reserves de taula, videotrucades, etc. Aquí es visualitza el calendari i es poden crear cites en hores específiques.
 
+![Disseny de pis i de les taules](image-10.png)
+
+## Planificació
+
+El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les empreses a gestionar i planificar les tasques i els recursos de manera eficient. És especialment útil per organitzar l'assignació de treball en equips, optimitzant la disponibilitat dels recursos i facilitant una planificació precisa de projectes, activitats i esdeveniments.
+
+### Funcions Clau
+
+- **Planificació i assignació de recursos:** Permet assignar recursos (com persones, equips o materials) a projectes o tasques específiques, facilitant la visualització de la càrrega de treball i assegurant que cada membre de l’equip sàpiga què ha de fer i quan.
 ![alt text](image-70.png)
 
 ![alt text](image-71.png)
