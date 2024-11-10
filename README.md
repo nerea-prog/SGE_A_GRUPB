@@ -1,22 +1,5 @@
-# INTRODUCCIÓ
 
-Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empreses.
-
-### Punts Claus per a la Venda d’un ERP a un Client Potencial
-
-Considerem que els punts claus a l'hora de vendre un ERP són els següents: 
-- Aconseguir l'optimització dels processos.
-- Millora de la visibilitat i presa de decisions de l'empresa del nostre client.
-- Millora de l'experiència del client per tal de poder anticipar-nos a les seves necessitats.
-- Possibilitat de personalització pel nostre client i escalabilitat.
-- Adaptació a la normativa.
-
-
-#  EL NOSTRE CLIENT: RESTAURANT THE BEAR.
-
-Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
-
-## 7. Punt de Venda
+## Punt de Venda
 
 En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica dels diferents punts de venda, des de la taula de productes i preus fins a la gestió de comandes de les taules i el cobrament posterior.
 
@@ -76,7 +59,7 @@ La configuració del sistema de vendes d’Odoo és fàcil d’usar i ideal per 
 
 ![Disseny de pis i de les taules](image-10.png)
 
-## 8. Planificació
+## Planificació
 
 El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les empreses a gestionar i planificar les tasques i els recursos de manera eficient. És especialment útil per organitzar l'assignació de treball en equips, optimitzant la disponibilitat dels recursos i facilitant una planificació precisa de projectes, activitats i esdeveniments.
 
