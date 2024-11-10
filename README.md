@@ -248,6 +248,9 @@ Abans de fer una compra, has de demanar un pressupost al possible proveïdor al 
 
 Per fer això, es comença prement el botó superior esquerra que diu “Nou”.
 
+
+
+
 La primera vegada caldrà registrar informació bàsica del proveïdor, com el nom, les dades de contacte, la direcció de facturació, etc. Si l’empresa és coneguda, és possible que ja es trobi registrada a la base de dades d’Odoo.
 
 A més, Odoo et permet personalitzar certs aspectes a la configuració de compres:
@@ -405,3 +408,6 @@ El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les emp
 - **Anàlisi i informes:** El mòdul de Planificació d’Odoo inclou funcionalitats d’informes que permeten analitzar l'ús de recursos, la càrrega de treball i l’acompliment del personal en diferents projectes. Aquesta anàlisi ajuda a prendre decisions basades en dades i millora la planificació de futurs projectes.
 
 ![Pantalla Anàlisi](image-19.png)
+
+
+[def]: c
