@@ -11,10 +11,18 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 - Possibilitat de personalització pel nostre client i escalabilitat.
 - Adaptació a la normativa.
 
+### Llicències que ofereix Odoo
+
+| Llicència | Característiques | Empreses | Preu |
+|-----------|-----------|-----------|-----------|
+| Gratuïta  | Tot i ser gratuïta, aquesta llicència només ofereix funcionalitats bàsiques de l'ERP. No inclou moltes de les eines avançades ni actualitzacions.  | Empreses petites i proves.  | gratuït  |
+| Estàndard  | Funcions més completes, suport i actualitzacions regulars, aplicacions i mòduls, com ara comptabilitat, gestió d'inventaris, CRM, projectes, màrqueting, vendes, etc.  | Empreses mitjanes que requereixen un ERP robust.  |11,90 €/usuari/mes |
+| Personalitzada  | Personalització molt detallada, consultoria i suport especialitzat, desenvolupament de mòduls específics.  | Empreses grans o amb necessitats específiques.  | 17,90 €/usuari/mes
+
 
 #  EL NOSTRE CLIENT: RESTAURANT THE BEAR
 
-Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
+Els mòduls següents són els que hem oferit al nostre client amb una explicació detallada del funcionament de cadascú.
 # Vendes
 
 A l’apartat de **Vendes** gestionem les demandes en línia.
