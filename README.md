@@ -12,7 +12,7 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 - Adaptació a la normativa.
 
 
-#  EL NOSTRE CLIENT: RESTAURANT THE BEAR
+#  EL NOSTRE CLIENT: RESTAURANT THE BEAR.
 
 Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
 
