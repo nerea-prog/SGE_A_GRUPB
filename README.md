@@ -236,6 +236,8 @@ A configuració, es defineixen:
 
 ![alt text](image-82.png)
 
+
+
 ## COMPRES
 
 El mòdul de compres és un dels mòduls que ofereix Odoo més importants per a gestionar l’adquisició de productes i serveis dins d’una empresa. Amb aquest mòdul, pots gestionar tot el procés de compres, des de la sol·licitud de compra fins a la recepció de productes i la facturació posterior.
@@ -292,7 +294,7 @@ Odoo també ofereix diverses eines per analitzar i fer reports de les compres re
 
 
 
-=======
+
 ## Punt de Venda
 
 En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica dels diferents punts de venda, des de la taula de productes i preus fins a la gestió de comandes de les taules i el cobrament posterior.
@@ -353,9 +355,12 @@ La configuració del sistema de vendes d’Odoo és fàcil d’usar i ideal per 
 
 ![Disseny de pis i de les taules](image-10.png)
 
+
+
+
 ## Costos
 
-Els costos a Odoo es gestionen des del mòdul de **Despeses** (Gastos). Aquest mòdul és una eina molt útil per gestionar totes les despeses operatives d'una empresa. Permet als usuaris registrar, controlar, aprovar i reemborsar les despeses relacionades amb la feina, com els desplaçaments, les compres de materials o qualsevol altra despesa relacionada amb l'activitat empresarial.
+Els costos a Odoo es gestionen des del mòdul de "Despeses" (Gastos). Aquest mòdul és una eina molt útil per gestionar totes les despeses operatives d'una empresa. Permet als usuaris registrar, controlar, aprovar i reemborsar les despeses relacionades amb la feina, com els desplaçaments, les compres de materials o qualsevol altra despesa relacionada amb l'activitat empresarial.
 
 ### Taulell Principal
 
@@ -370,6 +375,9 @@ L’ordre seria el següent: **Crear report > Enviar al gerent > Aprovar > regis
 Després s’introdueixen les dades necessàries, com per exemple el mètode de devolució (si en efectiu o per ingrés bancari) i es revisa que totes les altres dades siguin correctes abans de fer el pagament.
 
 I finalment tenim el rebut pagat.
+
+
+
 
 ## Planificació
 
