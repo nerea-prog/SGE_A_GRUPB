@@ -16,7 +16,7 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 
 Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
 
-## 7. Punt de Venda
+## 7. Punt de Venda.
 
 En aquest mòdul es troben els aplicatius necessaris per a la gestió econòmica dels diferents punts de venda, des de la taula de productes i preus fins a la gestió de comandes de les taules i el cobrament posterior.
 
