@@ -9,6 +9,7 @@ Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empre
 ### Repartició de feines
 
 - Nerea: Vendes i calendari (B)
+- Alba: Compres i Costos (C)
 
 **Comparació sistemes ERP**
 
