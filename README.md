@@ -369,16 +369,33 @@ Els costos a Odoo es gestionen des del mòdul de "Despeses" (Gastos). Aquest mò
 
 El taulell principal ofereix una vista general de totes les factures que es van introduint. Per començar, caldrà prémer el botó superior esquerre que diu “Nou”.
 
+![alt text](image-96.png)
+
 Un cop entrem, ens sortirà la següent pantalla. Cal anotar els diners que s’ha gastat, qui ha fet la despesa (si és una despesa d’empresa o d’un empleat) i clicant el botó que diu “Adjuntar rebut” et permet adjuntar una fotografia del rebut en concret.
+
+![alt text](image-97.png)
+
+![alt text](image-98.png)
+
 
 A continuació, polsant el botó que diu “Crear report”, et demanarà que introdueixis el nom del gerent. Un cop introduït les dades, ja es pot enviar.
 
+![alt text](image-99.png)
+
 L’ordre seria el següent: **Crear report > Enviar al gerent > Aprovar > registrar asientos contables > Pagar**
+
+
+![alt text](image-101.png)
+
 
 Després s’introdueixen les dades necessàries, com per exemple el mètode de devolució (si en efectiu o per ingrés bancari) i es revisa que totes les altres dades siguin correctes abans de fer el pagament.
 
+![alt text](image-102.png)
+
+
 I finalment tenim el rebut pagat.
 
+![alt text](image-103.png)
 
 
 
