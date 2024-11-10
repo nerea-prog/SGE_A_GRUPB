@@ -11,6 +11,8 @@ Considerem que els punts claus a l'hora de vendre un ERP són els següents:
 - Possibilitat de personalització pel nostre client i escalabilitat.
 - Adaptació a la normativa.
 
+3. Em dic Brithany, tinc 18 anys i tinc moltes ganes d'aprendre sobre ERP, CRM, BS, etc. Em motiva molt poder adquirir nous coneixements i millorar en aquesta àrea.
+Brithany: Empleats i Esdeveniments (A)
 ## Llicències que ofereix Odoo
 
 | Llicència | Característiques | Empreses | Preu |
@@ -239,3 +241,4 @@ El mòdul de planificació d’Odoo és una eina dins de l'ERP que ajuda les emp
 
 ![Pantalla Anàlisi](image-19.png)
 
+ 
