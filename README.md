@@ -248,7 +248,7 @@ Abans de fer una compra, has de demanar un pressupost al possible proveïdor al 
 
 Per fer això, es comença prement el botó superior esquerra que diu “Nou”.
 
-
+![alt text](image-84.png)
 
 
 La primera vegada caldrà registrar informació bàsica del proveïdor, com el nom, les dades de contacte, la direcció de facturació, etc. Si l’empresa és coneguda, és possible que ja es trobi registrada a la base de dades d’Odoo.
@@ -257,7 +257,13 @@ A més, Odoo et permet personalitzar certs aspectes a la configuració de compre
 - **Condicions de pagament**: Estableix com i quan pagaràs als proveïdors.
 - **Magatzems**: Defineix els magatzems a què rebràs els productes comprats.
 
+![alt text](image-85.png)
+
 Un cop registrat el proveïdor, es pot començar a afegir els productes que interessa comprar.
+
+![alt text](image-86.png)
+
+![alt text](image-87.png)
 
 Finalment, per enviar la sol·licitud s’ha de prémer el botó que diu “Enviar per correu electrònic” i posteriorment un altre que diu “Enviar”.
 
@@ -267,12 +273,20 @@ Posteriorment a això, el proveïdor contactarà de tornada i podrà rebutjar o 
 
 Quan la sol·licitud es converteix en una ordre de compra, implica que la sol·licitud passi a ser una comanda formal i que hi hagi un compromís amb el proveïdor.
 
+![alt text](image-88.png)
+
 ### Recepció de productes
 
 Un cop el proveïdor enviï els productes, s’hauran de rebre al magatzem. Caldrà seguir les següents passes:
 
 1. Anar a Compra > Ordres de compra > seleccionar l’ordre de compra en concret > Rebre productes
+
+![alt text](image-89.png)
+
 2. Odoo et demana que registres la quantitat rebuda de cada producte. Si reps menys quantitat del que es demana, es pot ajustar la quantitat rebuda. Per finalitzar, prémer el botó “validar”.
+
+![alt text](image-90.png)
+
 3. Després de rebre els productes, Odoo actualitza automàticament l'inventari dels vostres magatzems amb les noves quantitats.
 
 
@@ -282,11 +296,18 @@ Un cop s’ha confirmat que els productes han arribat bé, cal fer la facturaci�
 
 Crear factura > Confirmar > Confirmar
 
+![alt text](image-91.png)
+
 Odoo generarà la factura basant-se en la recepció de productes.
 
 Cal revisar els detalls de la factura (productes, quantitats, preus, etc.). És important afegir la data de la factura, ja que si no, no es podrà confirmar.
 
+![alt text](image-92.png)
+
 Si tot és correcte, es pot validar la factura. Això marcarà la factura com a pagada o pendent segons la condició de pagament definida.
+
+![alt text](image-94.png)
+
 
 ### Informe i anàlisis
 
@@ -295,7 +316,7 @@ Odoo també ofereix diverses eines per analitzar i fer reports de les compres re
 - **Informe de Compres:** Pots generar informes sobre les compres realitzades, com ara el total gastat amb un proveïdor, productes més comprats, entre d'altres. 
 - **Analítica:** També permet fer anàlisis detallades sobre les compres per categoria, proveïdor, o fins i tot comparar compres de diferents períodes.
 
-
+![alt text](image-111.png)
 
 
 ## Punt de Venda
