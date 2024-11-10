@@ -120,3 +120,5 @@ A configuració, es defineixen:
 - Invitacions per a propostes de cites
 
 
+
+ffff
