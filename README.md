@@ -5,6 +5,7 @@ Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empre
 ### Introducció integrants del grup
 
 1. Sóc Nerea, tinc 18 anys.  m'agrada molt l'informàtica especialment la programació. En aquest treball m'interessa explorar més sobre els sistemes ERP. Espero poder aprendre moltes coses.
+2. Em dic Alba, tinc 22 anys i encara que mai havia estudiat res relacionat amb la informàtica, m'està agradant molt.
 
 ### Repartició de feines
 
@@ -294,6 +295,24 @@ La configuració del sistema de vendes d’Odoo és fàcil d’usar i ideal per 
 - **Disseny del restaurant i les taules:** Personalització del disseny del restaurant per facilitar la gestió de les comandes.
 
 ![Disseny de pis i de les taules](image-10.png)
+
+## Costos
+
+Els costos a Odoo es gestionen des del mòdul de **Despeses** (Gastos). Aquest mòdul és una eina molt útil per gestionar totes les despeses operatives d'una empresa. Permet als usuaris registrar, controlar, aprovar i reemborsar les despeses relacionades amb la feina, com els desplaçaments, les compres de materials o qualsevol altra despesa relacionada amb l'activitat empresarial.
+
+### Taulell Principal
+
+El taulell principal ofereix una vista general de totes les factures que es van introduint. Per començar, caldrà prémer el botó superior esquerre que diu “Nou”.
+
+Un cop entrem, ens sortirà la següent pantalla. Cal anotar els diners que s’ha gastat, qui ha fet la despesa (si és una despesa d’empresa o d’un empleat) i clicant el botó que diu “Adjuntar rebut” et permet adjuntar una fotografia del rebut en concret.
+
+A continuació, polsant el botó que diu “Crear report”, et demanarà que introdueixis el nom del gerent. Un cop introduït les dades, ja es pot enviar.
+
+L’ordre seria el següent: **Crear report > Enviar al gerent > Aprovar > registrar asientos contables > Pagar**
+
+Després s’introdueixen les dades necessàries, com per exemple el mètode de devolució (si en efectiu o per ingrés bancari) i es revisa que totes les altres dades siguin correctes abans de fer el pagament.
+
+I finalment tenim el rebut pagat.
 
 ## Planificació
 
