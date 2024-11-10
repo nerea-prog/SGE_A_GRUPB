@@ -210,3 +210,5 @@ A configuració, es defineixen:
 - Recursos addicionals
 - Estat de recursos (pausats i els seus motius)
 - Invitacions per a propostes de cites
+
+![alt text](image-82.png)
