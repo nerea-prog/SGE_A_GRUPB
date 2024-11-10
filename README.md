@@ -1,3 +1,22 @@
+
+# INTRODUCCIÓ
+
+Som una empresa consultora que ven els serveis d'Odoo a petites i mitjanes empreses.
+
+### Punts Claus per a la Venda d’un ERP a un Client Potencial
+
+Considerem que els punts claus a l'hora de vendre un ERP són els següents: 
+- Aconseguir l'optimització dels processos.
+- Millora de la visibilitat i presa de decisions de l'empresa del nostre client.
+- Millora de l'experiència del client per tal de poder anticipar-nos a les seves necessitats.
+- Possibilitat de personalització pel nostre client i escalabilitat.
+- Adaptació a la normativa.
+
+
+#  EL NOSTRE CLIENT: RESTAURANT THE BEAR
+
+Els mòduls següents són els que hem ofert al nostre client amb una explicació detallada del funcionament de cadascú.
+
 # Vendes
 
 A l’apartat de **Vendes** gestionem les demandes en línia.
@@ -191,5 +210,3 @@ A configuració, es defineixen:
 - Recursos addicionals
 - Estat de recursos (pausats i els seus motius)
 - Invitacions per a propostes de cites
-
-![alt text](image-81.png)
