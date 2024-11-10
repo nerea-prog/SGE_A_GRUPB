@@ -235,6 +235,63 @@ A configuració, es defineixen:
 - Invitacions per a propostes de cites
 
 ![alt text](image-82.png)
+
+## COMPRES
+
+El mòdul de compres és un dels mòduls que ofereix Odoo més importants per a gestionar l’adquisició de productes i serveis dins d’una empresa. Amb aquest mòdul, pots gestionar tot el procés de compres, des de la sol·licitud de compra fins a la recepció de productes i la facturació posterior.
+
+### Sol·licitud de compra al proveïdor
+
+Abans de fer una compra, has de demanar un pressupost al possible proveïdor al qual vols comprar-li. Això té com a avantatge poder saber el cost de determinat nombre de productes sense que hi hagi cap compromís amb l’empresa de fer finalment l’ordre.
+
+Per fer això, es comença prement el botó superior esquerra que diu “Nou”.
+
+La primera vegada caldrà registrar informació bàsica del proveïdor, com el nom, les dades de contacte, la direcció de facturació, etc. Si l’empresa és coneguda, és possible que ja es trobi registrada a la base de dades d’Odoo.
+
+A més, Odoo et permet personalitzar certs aspectes a la configuració de compres:
+- **Condicions de pagament**: Estableix com i quan pagaràs als proveïdors.
+- **Magatzems**: Defineix els magatzems a què rebràs els productes comprats.
+
+Un cop registrat el proveïdor, es pot començar a afegir els productes que interessa comprar.
+
+Finalment, per enviar la sol·licitud s’ha de prémer el botó que diu “Enviar per correu electrònic” i posteriorment un altre que diu “Enviar”.
+
+Posteriorment a això, el proveïdor contactarà de tornada i podrà rebutjar o acceptar la sol·licitud. En cas que l’accepti, es pot fer una última revisió dels productes, quantitats i preus. Llavors apareixerà una opció per convertir la “Sol·licitud de compra” a un “ordre de compra”.
+
+### Ordres de compra
+
+Quan la sol·licitud es converteix en una ordre de compra, implica que la sol·licitud passi a ser una comanda formal i que hi hagi un compromís amb el proveïdor.
+
+### Recepció de productes
+
+Un cop el proveïdor enviï els productes, s’hauran de rebre al magatzem. Caldrà seguir les següents passes:
+
+1. Anar a Compra > Ordres de compra > seleccionar l’ordre de compra en concret > Rebre productes
+2. Odoo et demana que registres la quantitat rebuda de cada producte. Si reps menys quantitat del que es demana, es pot ajustar la quantitat rebuda. Per finalitzar, prémer el botó “validar”.
+3. Després de rebre els productes, Odoo actualitza automàticament l'inventari dels vostres magatzems amb les noves quantitats.
+
+
+### Facturació al proveïdor
+
+Un cop s’ha confirmat que els productes han arribat bé, cal fer la facturació. Ara a l’ordre de compra aniran apareixent una sèrie de botons nous. L'ordre és el següent:
+
+Crear factura > Confirmar > Confirmar
+
+Odoo generarà la factura basant-se en la recepció de productes.
+
+Cal revisar els detalls de la factura (productes, quantitats, preus, etc.). És important afegir la data de la factura, ja que si no, no es podrà confirmar.
+
+Si tot és correcte, es pot validar la factura. Això marcarà la factura com a pagada o pendent segons la condició de pagament definida.
+
+### Informe i anàlisis
+
+Odoo també ofereix diverses eines per analitzar i fer reports de les compres realitzades, cosa que és útil per a la presa de decisions: 
+
+- **Informe de Compres:** Pots generar informes sobre les compres realitzades, com ara el total gastat amb un proveïdor, productes més comprats, entre d'altres. 
+- **Analítica:** També permet fer anàlisis detallades sobre les compres per categoria, proveïdor, o fins i tot comparar compres de diferents períodes.
+
+
+
 =======
 ## Punt de Venda
 
